@@ -1,0 +1,8 @@
+//Tips for development
+
+・cssでテキストの改行を行う。："pre-line"
+
+<div style={{ whiteSpace: "pre-line" }}></div>
+
+例：
+
